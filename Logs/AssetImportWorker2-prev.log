@@ -15,7 +15,11 @@ C:/Users/asus/Desktop/My project
 -logFile
 Logs/AssetImportWorker2.log
 -srvPort
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 54595
+=======
+55084
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 Successfully changed project path to: C:/Users/asus/Desktop/My project
 C:/Users/asus/Desktop/My project
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,11 +51,19 @@ C:/Users/asus/Desktop/My project
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 Player connection [18572] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1783918862 [EditorId] 1783918862 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [18572] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1783918862 [EditorId] 1783918862 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 Refreshing native plugins compatible for Editor in 17.13 ms, found 4 plugins.
+=======
+Player connection [10052] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2788704637 [EditorId] 2788704637 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [10052] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2788704637 [EditorId] 2788704637 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 17.95 ms, found 4 plugins.
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.2.6f1 (10bfa6201ced)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.2.6f1/Editor/Data/Resources/UnitySubsystems
@@ -67,6 +79,7 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.2.6f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56860
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -79,28 +92,58 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (140ms)
 		BeginReloadAssembly (55ms)
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56516
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005072 seconds.
+- Loaded All Assemblies, in  0.241 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.219 seconds
+Domain Reload Profiling:
+	ReloadAssembly (145ms)
+		BeginReloadAssembly (58ms)
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
 		LoadAllAssembliesAndSetupDomain (0ms)
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 			LoadAssemblies (53ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
 			SetupTypeCache (94ms)
 				TypeCache.Initialize (94ms)
 					TypeCache.ScanAssembly (92ms)
+=======
+			LoadAssemblies (56ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (92ms)
+				TypeCache.Initialize (91ms)
+					TypeCache.ScanAssembly (90ms)
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 				ResolveRequiredComponents (0ms)
 		FinalizeReload (0ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (0ms)
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 			SetupLoadedEditorAssemblies (161ms)
+=======
+			SetupLoadedEditorAssemblies (173ms)
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (6ms)
 				RefreshPlugins (0ms)
 				BeforeProcessingInitializeOnLoad (1ms)
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 				ProcessInitializeOnLoadAttributes (103ms)
+=======
+				ProcessInitializeOnLoadAttributes (114ms)
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 				ProcessInitializeOnLoadMethodAttributes (44ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
@@ -111,6 +154,7 @@ Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\asus\Desktop\My project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\asus\Desktop\My project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 - Loaded All Assemblies, in  0.755 seconds
 Refreshing native plugins compatible for Editor in 12.26 ms, found 4 plugins.
 Native extension for WindowsStandalone target not found
@@ -119,10 +163,21 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (161ms)
 		BeginReloadAssembly (87ms)
+=======
+- Loaded All Assemblies, in  0.852 seconds
+Refreshing native plugins compatible for Editor in 11.82 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.510 seconds
+Domain Reload Profiling:
+	ReloadAssembly (205ms)
+		BeginReloadAssembly (97ms)
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 			CreateAndSetChildDomain (18ms)
 		LoadAllAssembliesAndSetupDomain (591ms)
 			LoadAssemblies (222ms)
@@ -135,24 +190,53 @@ Domain Reload Profiling:
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (0ms)
 			SetupLoadedEditorAssemblies (366ms)
+=======
+			CreateAndSetChildDomain (20ms)
+		LoadAllAssembliesAndSetupDomain (645ms)
+			LoadAssemblies (239ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (443ms)
+				TypeCache.Initialize (221ms)
+					TypeCache.ScanAssembly (216ms)
+				ResolveRequiredComponents (4ms)
+		FinalizeReload (0ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (0ms)
+			SetupLoadedEditorAssemblies (379ms)
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (3ms)
 				RefreshPlugins (0ms)
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 				BeforeProcessingInitializeOnLoad (62ms)
 				ProcessInitializeOnLoadAttributes (196ms)
 				ProcessInitializeOnLoadMethodAttributes (96ms)
+=======
+				BeforeProcessingInitializeOnLoad (65ms)
+				ProcessInitializeOnLoadAttributes (202ms)
+				ProcessInitializeOnLoadMethodAttributes (99ms)
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (12ms)
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 Refreshing native plugins compatible for Editor in 13.12 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4877 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 124 unused Assets / (116.3 KB). Loaded Objects now: 5255.
 Memory consumption went from 0.72 GB to 0.72 GB.
 Total: 5.444600 ms (FindLiveObjects: 0.323200 ms CreateObjectMapping: 0.125300 ms MarkObjects: 4.814500 ms  DeleteObjects: 0.179800 ms)
+=======
+Refreshing native plugins compatible for Editor in 11.81 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4876 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 124 unused Assets / (116.3 KB). Loaded Objects now: 5254.
+Memory consumption went from 0.72 GB to 0.72 GB.
+Total: 5.182000 ms (FindLiveObjects: 0.370700 ms CreateObjectMapping: 0.164100 ms MarkObjects: 4.480700 ms  DeleteObjects: 0.165400 ms)
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -168,9 +252,130 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
   Time since last request: 8879.768781 seconds.
   path: Assets/Scenes/SampleScene.unity
   artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34b3d499ae70257dbee830cb75217481') in 0.001663 seconds 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+=======
+  Time since last request: 9636.527451 seconds.
+  path: Assets/Visual-Sprites/New Piskel.png
+  artifactKey: Guid(ca430d81659053944bee5d775bef371f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual-Sprites/New Piskel.png using Guid(ca430d81659053944bee5d775bef371f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e813da02decc2b575cba24b8d6df69ac') in 0.082179 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 40.634874 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e23df33be651231f9ec484a0d6c71baf') in 0.000541 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1331.493427 seconds.
+  path: Assets/Visual-Sprites
+  artifactKey: Guid(d3d3ab31deff98142bc3e163c370a2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual-Sprites using Guid(d3d3ab31deff98142bc3e163c370a2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79468fcf154d7a0395a1c57e994e890c') in 0.000626 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 8.090927 seconds.
+  path: Assets/Visual-Sprites/New Piskel (1).png
+  artifactKey: Guid(06100df1214b1dd48be8d9a177173fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual-Sprites/New Piskel (1).png using Guid(06100df1214b1dd48be8d9a177173fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13b405ef336bc5ea852cda2439accedc') in 0.009959 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 83.305319 seconds.
+  path: Assets/Visual-Sprites/Wall Piskel.png
+  artifactKey: Guid(06100df1214b1dd48be8d9a177173fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual-Sprites/Wall Piskel.png using Guid(06100df1214b1dd48be8d9a177173fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43214fa0bd66b72479406a9c662b8a38') in 0.007703 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 62.971417 seconds.
+  path: Assets/Visual-Sprites/Wall Piskel.png
+  artifactKey: Guid(06100df1214b1dd48be8d9a177173fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual-Sprites/Wall Piskel.png using Guid(06100df1214b1dd48be8d9a177173fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eea8ddf72c45058f0cf3a9e44b055c68') in 0.019599 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 208.192125 seconds.
+  path: Assets/Visual-Sprites/New Piskel.png
+  artifactKey: Guid(ca430d81659053944bee5d775bef371f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual-Sprites/New Piskel.png using Guid(ca430d81659053944bee5d775bef371f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32e8032c90f3f1e60f998b2809daac06') in 0.033295 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 311.711277 seconds.
+  path: Assets/Visual-Sprites/New Piskel (1).png
+  artifactKey: Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual-Sprites/New Piskel (1).png using Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69664fac722245dd4bc1275fc429ccd2') in 0.012180 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 7.329313 seconds.
+  path: Assets/Visual-Sprites/New Piskel (1).png
+  artifactKey: Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual-Sprites/New Piskel (1).png using Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c784ae952ee29a6337a54e8cb69a957') in 0.005703 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 320.604028 seconds.
+  path: Assets/Visual-Sprites/New Piskel (1).png
+  artifactKey: Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual-Sprites/New Piskel (1).png using Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28bbad2cac073a23482654ecc37901fe') in 0.009031 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 7.877479 seconds.
+  path: Assets/Visual-Sprites/New Piskel (1).png
+  artifactKey: Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual-Sprites/New Piskel (1).png using Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de4b0ac5935a99a2b8c551a4328d5ea4') in 0.007792 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 56.214054 seconds.
+  path: Assets/Visual-Sprites/New Piskel (1).png
+  artifactKey: Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual-Sprites/New Piskel (1).png using Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bd629d91ff5c3420bafce4a646bc9ed') in 0.020628 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 56.775623 seconds.
+  path: Assets/Visual-Sprites/New Piskel (1).png
+  artifactKey: Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual-Sprites/New Piskel (1).png using Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a21dcca5f9236034bebed8e5467478') in 0.007055 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 250.600173 seconds.
+  path: Assets/Visual-Sprites/New Piskel (1).png
+  artifactKey: Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual-Sprites/New Piskel (1).png using Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1976054f8c4a30d93b4e27e050eebcfb') in 0.019253 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 191.250823 seconds.
+  path: Assets/Visual-Sprites/New Piskel (1).png
+  artifactKey: Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual-Sprites/New Piskel (1).png using Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9034b0bfbfcdc515c601fe24c725142') in 0.025980 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log

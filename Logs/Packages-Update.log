@@ -42,7 +42,11 @@ The following packages were updated:
   com.unity.ide.visualstudio from version 2.0.16 to 2.0.17
   com.unity.visualscripting from version 1.7.8 to 1.8.0
 
+<<<<<<< HEAD
 === Mon Oct  2 09:46:36 2023
+=======
+=== Mon Oct  2 10:01:52 2023
+>>>>>>> Feature-Visual
 
 Packages were changed.
 Update Mode: updateDependencies
