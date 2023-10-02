@@ -16,9 +16,13 @@ C:/Users/asus/Desktop/My project
 Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< HEAD
+<<<<<<< HEAD
 54595
 =======
 53378
+>>>>>>> Feature-Visual
+=======
+56291
 >>>>>>> Feature-Visual
 Successfully changed project path to: C:/Users/asus/Desktop/My project
 C:/Users/asus/Desktop/My project
@@ -52,6 +56,7 @@ C:/Users/asus/Desktop/My project
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
 <<<<<<< HEAD
+<<<<<<< HEAD
 Player connection [21196] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3892117041 [EditorId] 3892117041 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [21196] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3892117041 [EditorId] 3892117041 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
@@ -59,10 +64,17 @@ Player connection [21196] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3892
 Refreshing native plugins compatible for Editor in 20.71 ms, found 4 plugins.
 =======
 Player connection [4084] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1035206094 [EditorId] 1035206094 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+=======
+Player connection [21332] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2136317166 [EditorId] 2136317166 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+>>>>>>> Feature-Visual
 
-Player connection [4084] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1035206094 [EditorId] 1035206094 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [21332] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2136317166 [EditorId] 2136317166 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 6.99 ms, found 4 plugins.
+>>>>>>> Feature-Visual
+=======
+Refreshing native plugins compatible for Editor in 22.79 ms, found 4 plugins.
 >>>>>>> Feature-Visual
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.2.6f1 (10bfa6201ced)
@@ -80,6 +92,7 @@ Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.2.6f1/Editor/Data/Managed
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.2.6f1/Editor/Data/MonoBleedingEdge/etc'
 <<<<<<< HEAD
+<<<<<<< HEAD
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56096
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -94,17 +107,25 @@ Domain Reload Profiling:
 		BeginReloadAssembly (52ms)
 =======
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56152
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56508
+>>>>>>> Feature-Visual
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.005184 seconds.
-- Loaded All Assemblies, in  0.264 seconds
+Registered in 0.005448 seconds.
+- Loaded All Assemblies, in  0.266 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.234 seconds
+- Finished resetting the current domain, in  0.236 seconds
 Domain Reload Profiling:
+<<<<<<< HEAD
 	ReloadAssembly (152ms)
 		BeginReloadAssembly (57ms)
+>>>>>>> Feature-Visual
+=======
+	ReloadAssembly (151ms)
+		BeginReloadAssembly (59ms)
 >>>>>>> Feature-Visual
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
@@ -112,6 +133,7 @@ Domain Reload Profiling:
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
 		LoadAllAssembliesAndSetupDomain (0ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 			LoadAssemblies (50ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
@@ -125,25 +147,40 @@ Domain Reload Profiling:
 				TypeCache.Initialize (105ms)
 					TypeCache.ScanAssembly (104ms)
 >>>>>>> Feature-Visual
+=======
+			LoadAssemblies (57ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (110ms)
+				TypeCache.Initialize (109ms)
+					TypeCache.ScanAssembly (108ms)
+>>>>>>> Feature-Visual
 				ResolveRequiredComponents (0ms)
 		FinalizeReload (0ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (0ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
 			SetupLoadedEditorAssemblies (160ms)
 =======
 			SetupLoadedEditorAssemblies (186ms)
 >>>>>>> Feature-Visual
+=======
+			SetupLoadedEditorAssemblies (188ms)
+>>>>>>> Feature-Visual
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (11ms)
-				SetLoadedEditorAssemblies (9ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (7ms)
 				RefreshPlugins (0ms)
 				BeforeProcessingInitializeOnLoad (1ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 				ProcessInitializeOnLoadAttributes (103ms)
 				ProcessInitializeOnLoadMethodAttributes (43ms)
 =======
 				ProcessInitializeOnLoadAttributes (116ms)
+=======
+				ProcessInitializeOnLoadAttributes (123ms)
+>>>>>>> Feature-Visual
 				ProcessInitializeOnLoadMethodAttributes (49ms)
 >>>>>>> Feature-Visual
 				AfterProcessingInitializeOnLoad (0ms)
@@ -156,6 +193,7 @@ Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\asus\Desktop\My project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\asus\Desktop\My project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Loaded All Assemblies, in  0.819 seconds
 Refreshing native plugins compatible for Editor in 13.14 ms, found 4 plugins.
 Native extension for WindowsStandalone target not found
@@ -167,17 +205,27 @@ Domain Reload Profiling:
 =======
 - Loaded All Assemblies, in  0.726 seconds
 Refreshing native plugins compatible for Editor in 2.83 ms, found 4 plugins.
+=======
+- Loaded All Assemblies, in  0.863 seconds
+Refreshing native plugins compatible for Editor in 12.23 ms, found 4 plugins.
+>>>>>>> Feature-Visual
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.455 seconds
+- Finished resetting the current domain, in  0.543 seconds
 Domain Reload Profiling:
+<<<<<<< HEAD
 	ReloadAssembly (164ms)
 		BeginReloadAssembly (90ms)
+>>>>>>> Feature-Visual
+=======
+	ReloadAssembly (184ms)
+		BeginReloadAssembly (104ms)
 >>>>>>> Feature-Visual
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 			CreateAndSetChildDomain (17ms)
 		LoadAllAssembliesAndSetupDomain (648ms)
@@ -213,33 +261,45 @@ Total: 5.361600 ms (FindLiveObjects: 0.381900 ms CreateObjectMapping: 0.133100 m
 			CreateAndSetChildDomain (18ms)
 		LoadAllAssembliesAndSetupDomain (560ms)
 			LoadAssemblies (193ms)
+=======
+			CreateAndSetChildDomain (19ms)
+		LoadAllAssembliesAndSetupDomain (676ms)
+			LoadAssemblies (252ms)
+>>>>>>> Feature-Visual
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (404ms)
-				TypeCache.Initialize (214ms)
-					TypeCache.ScanAssembly (210ms)
-				ResolveRequiredComponents (3ms)
+			SetupTypeCache (468ms)
+				TypeCache.Initialize (232ms)
+					TypeCache.ScanAssembly (228ms)
+				ResolveRequiredComponents (4ms)
 		FinalizeReload (0ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (0ms)
-			SetupLoadedEditorAssemblies (314ms)
+			SetupLoadedEditorAssemblies (391ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
-				SetLoadedEditorAssemblies (4ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (3ms)
 				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (58ms)
+				BeforeProcessingInitializeOnLoad (67ms)
 				ProcessInitializeOnLoadAttributes (211ms)
-				ProcessInitializeOnLoadMethodAttributes (30ms)
-				AfterProcessingInitializeOnLoad (5ms)
+				ProcessInitializeOnLoadMethodAttributes (98ms)
+				AfterProcessingInitializeOnLoad (6ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (12ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 3.62 ms, found 4 plugins.
+			AwakeInstancesAfterBackupRestoration (17ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 11.83 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
+<<<<<<< HEAD
 Unloading 3934 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 37 unused Assets / (70.4 KB). Loaded Objects now: 4394.
 Memory consumption went from 0.59 GB to 0.59 GB.
 Total: 2.952900 ms (FindLiveObjects: 0.304600 ms CreateObjectMapping: 0.147400 ms MarkObjects: 2.404600 ms  DeleteObjects: 0.095500 ms)
+>>>>>>> Feature-Visual
+=======
+Unloading 4876 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 124 unused Assets / (116.3 KB). Loaded Objects now: 5254.
+Memory consumption went from 0.72 GB to 0.72 GB.
+Total: 5.567300 ms (FindLiveObjects: 0.346600 ms CreateObjectMapping: 0.118100 ms MarkObjects: 4.927000 ms  DeleteObjects: 0.175000 ms)
 >>>>>>> Feature-Visual
 
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -254,6 +314,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+<<<<<<< HEAD
 ========================================================================
 Received Prepare
 Begin MonoManager ReloadAssembly
@@ -354,4 +415,6 @@ Number of asset objects unloaded after import = 2
 Start importing Assets/Visual-Sprites/New Piskel.png using Guid(ca430d81659053944bee5d775bef371f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9c854f8df96dc417d2652858b471dd3') in 0.079523 seconds 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 13
+>>>>>>> Feature-Visual
+=======
 >>>>>>> Feature-Visual
