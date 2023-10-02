@@ -17,12 +17,16 @@ Logs/AssetImportWorker1.log
 -srvPort
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 54595
 =======
 53378
 >>>>>>> Feature-Visual
 =======
 56291
+>>>>>>> Feature-Visual
+=======
+58483
 >>>>>>> Feature-Visual
 Successfully changed project path to: C:/Users/asus/Desktop/My project
 C:/Users/asus/Desktop/My project
@@ -57,6 +61,7 @@ C:/Users/asus/Desktop/My project
     "memorysetup-temp-allocator-size-gfx=262144"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Player connection [21176] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2119891890 [EditorId] 2119891890 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [21176] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2119891890 [EditorId] 2119891890 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
@@ -67,14 +72,21 @@ Player connection [19484] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2445
 =======
 Player connection [19512] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2721439157 [EditorId] 2721439157 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 >>>>>>> Feature-Visual
+=======
+Player connection [15588] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2615421451 [EditorId] 2615421451 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+>>>>>>> Feature-Visual
 
-Player connection [19512] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2721439157 [EditorId] 2721439157 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [15588] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2615421451 [EditorId] 2615421451 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 6.80 ms, found 4 plugins.
 >>>>>>> Feature-Visual
 =======
 Refreshing native plugins compatible for Editor in 21.97 ms, found 4 plugins.
+>>>>>>> Feature-Visual
+=======
+Refreshing native plugins compatible for Editor in 18.36 ms, found 4 plugins.
 >>>>>>> Feature-Visual
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.2.6f1 (10bfa6201ced)
@@ -91,6 +103,7 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.2.6f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56180
@@ -110,15 +123,19 @@ Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,susp
 =======
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56132
 >>>>>>> Feature-Visual
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56140
+>>>>>>> Feature-Visual
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.005561 seconds.
-- Loaded All Assemblies, in  0.262 seconds
+Registered in 0.006051 seconds.
+- Loaded All Assemblies, in  0.292 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.232 seconds
+- Finished resetting the current domain, in  0.251 seconds
 Domain Reload Profiling:
+<<<<<<< HEAD
 <<<<<<< HEAD
 	ReloadAssembly (154ms)
 		BeginReloadAssembly (58ms)
@@ -127,12 +144,17 @@ Domain Reload Profiling:
 	ReloadAssembly (149ms)
 		BeginReloadAssembly (60ms)
 >>>>>>> Feature-Visual
+=======
+	ReloadAssembly (175ms)
+		BeginReloadAssembly (67ms)
+>>>>>>> Feature-Visual
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
 		LoadAllAssembliesAndSetupDomain (0ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 			LoadAssemblies (50ms)
@@ -158,21 +180,29 @@ Domain Reload Profiling:
 >>>>>>> Feature-Visual
 =======
 			LoadAssemblies (58ms)
+=======
+			LoadAssemblies (65ms)
+>>>>>>> Feature-Visual
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (107ms)
-				TypeCache.Initialize (106ms)
-					TypeCache.ScanAssembly (103ms)
-				ResolveRequiredComponents (1ms)
+			SetupTypeCache (111ms)
+				TypeCache.Initialize (110ms)
+					TypeCache.ScanAssembly (109ms)
+				ResolveRequiredComponents (0ms)
 		FinalizeReload (0ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (0ms)
+<<<<<<< HEAD
 			SetupLoadedEditorAssemblies (184ms)
 >>>>>>> Feature-Visual
+=======
+			SetupLoadedEditorAssemblies (195ms)
+>>>>>>> Feature-Visual
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
+				InitializePlatformSupportModulesInManaged (8ms)
 				SetLoadedEditorAssemblies (7ms)
 				RefreshPlugins (0ms)
 				BeforeProcessingInitializeOnLoad (1ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 				ProcessInitializeOnLoadAttributes (104ms)
@@ -183,6 +213,9 @@ Domain Reload Profiling:
 >>>>>>> Feature-Visual
 =======
 				ProcessInitializeOnLoadAttributes (119ms)
+=======
+				ProcessInitializeOnLoadAttributes (129ms)
+>>>>>>> Feature-Visual
 				ProcessInitializeOnLoadMethodAttributes (50ms)
 >>>>>>> Feature-Visual
 				AfterProcessingInitializeOnLoad (0ms)
@@ -194,6 +227,7 @@ Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\asus\Desktop\My project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\asus\Desktop\My project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 - Loaded All Assemblies, in  0.812 seconds
@@ -211,10 +245,15 @@ Refreshing native plugins compatible for Editor in 2.89 ms, found 4 plugins.
 - Loaded All Assemblies, in  0.863 seconds
 Refreshing native plugins compatible for Editor in 14.49 ms, found 4 plugins.
 >>>>>>> Feature-Visual
+=======
+- Loaded All Assemblies, in  0.946 seconds
+Refreshing native plugins compatible for Editor in 13.37 ms, found 4 plugins.
+>>>>>>> Feature-Visual
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.568 seconds
+- Finished resetting the current domain, in  0.606 seconds
 Domain Reload Profiling:
+<<<<<<< HEAD
 <<<<<<< HEAD
 	ReloadAssembly (170ms)
 		BeginReloadAssembly (90ms)
@@ -223,10 +262,15 @@ Domain Reload Profiling:
 	ReloadAssembly (188ms)
 		BeginReloadAssembly (104ms)
 >>>>>>> Feature-Visual
+=======
+	ReloadAssembly (179ms)
+		BeginReloadAssembly (99ms)
+>>>>>>> Feature-Visual
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 			CreateAndSetChildDomain (17ms)
 		LoadAllAssembliesAndSetupDomain (640ms)
@@ -251,19 +295,25 @@ Domain Reload Profiling:
 			CreateAndSetChildDomain (18ms)
 		LoadAllAssembliesAndSetupDomain (669ms)
 			LoadAssemblies (251ms)
+=======
+			CreateAndSetChildDomain (20ms)
+		LoadAllAssembliesAndSetupDomain (764ms)
+			LoadAssemblies (283ms)
+>>>>>>> Feature-Visual
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (453ms)
-				TypeCache.Initialize (237ms)
-					TypeCache.ScanAssembly (233ms)
+			SetupTypeCache (520ms)
+				TypeCache.Initialize (261ms)
+					TypeCache.ScanAssembly (256ms)
 				ResolveRequiredComponents (4ms)
 		FinalizeReload (0ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (0ms)
-			SetupLoadedEditorAssemblies (422ms)
+			SetupLoadedEditorAssemblies (450ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (5ms)
+				SetLoadedEditorAssemblies (4ms)
 				RefreshPlugins (0ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 				BeforeProcessingInitializeOnLoad (56ms)
 				ProcessInitializeOnLoadAttributes (211ms)
@@ -294,16 +344,26 @@ Total: 3.208200 ms (FindLiveObjects: 0.394100 ms CreateObjectMapping: 0.125000 m
 				ProcessInitializeOnLoadAttributes (226ms)
 				ProcessInitializeOnLoadMethodAttributes (103ms)
 				AfterProcessingInitializeOnLoad (5ms)
+=======
+				BeforeProcessingInitializeOnLoad (77ms)
+				ProcessInitializeOnLoadAttributes (253ms)
+				ProcessInitializeOnLoadMethodAttributes (105ms)
+				AfterProcessingInitializeOnLoad (6ms)
+>>>>>>> Feature-Visual
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (12ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 13.99 ms, found 4 plugins.
+			AwakeInstancesAfterBackupRestoration (14ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 12.18 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4876 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 124 unused Assets / (116.3 KB). Loaded Objects now: 5254.
 Memory consumption went from 0.72 GB to 0.72 GB.
+<<<<<<< HEAD
 Total: 5.474900 ms (FindLiveObjects: 0.373500 ms CreateObjectMapping: 0.173100 ms MarkObjects: 4.758300 ms  DeleteObjects: 0.168800 ms)
+>>>>>>> Feature-Visual
+=======
+Total: 6.231200 ms (FindLiveObjects: 0.421300 ms CreateObjectMapping: 0.215000 ms MarkObjects: 5.404500 ms  DeleteObjects: 0.189100 ms)
 >>>>>>> Feature-Visual
 
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -320,6 +380,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
 <<<<<<< HEAD
   Time since last request: 8735.290417 seconds.
   path: Assets/Visual-Sprites/New Piskel.png
@@ -429,11 +490,15 @@ Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 =======
   Time since last request: 13230.341895 seconds.
+=======
+  Time since last request: 23258.829709 seconds.
+>>>>>>> Feature-Visual
   path: Assets/Visual-Sprites/New Piskel (1).png
   artifactKey: Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Visual-Sprites/New Piskel (1).png using Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '473b9e497e0c7ef01c15328aec5ba2ba') in 0.071752 seconds 
+Start importing Assets/Visual-Sprites/New Piskel (1).png using Guid(cd6f0fcd5618ce94faf3cfe70f6a0fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '473b9e497e0c7ef01c15328aec5ba2ba') in 0.070952 seconds 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 7
+<<<<<<< HEAD
 ========================================================================
 Received Import Request.
   Time since last request: 0.000819 seconds.
@@ -442,4 +507,6 @@ Received Import Request.
 Start importing Assets/Visual-Sprites/New Piskel.png using Guid(ca430d81659053944bee5d775bef371f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '196e51fbc3531faaf491af5f701e1cb1') in 0.021408 seconds 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 13
+>>>>>>> Feature-Visual
+=======
 >>>>>>> Feature-Visual

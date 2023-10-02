@@ -17,12 +17,16 @@ Logs/AssetImportWorker2.log
 -srvPort
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 54595
 =======
 55084
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 =======
 56587
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
+=======
+58959
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 Successfully changed project path to: C:/Users/asus/Desktop/My project
 C:/Users/asus/Desktop/My project
@@ -57,6 +61,7 @@ C:/Users/asus/Desktop/My project
     "memorysetup-temp-allocator-size-gfx=262144"
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 Player connection [18572] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1783918862 [EditorId] 1783918862 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [18572] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1783918862 [EditorId] 1783918862 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
@@ -67,14 +72,21 @@ Player connection [10052] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2788
 =======
 Player connection [16444] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2385012687 [EditorId] 2385012687 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
+=======
+Player connection [14080] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1659793736 [EditorId] 1659793736 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 
-Player connection [16444] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2385012687 [EditorId] 2385012687 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [14080] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1659793736 [EditorId] 1659793736 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1C1JVLPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 Refreshing native plugins compatible for Editor in 17.95 ms, found 4 plugins.
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 =======
 Refreshing native plugins compatible for Editor in 20.09 ms, found 4 plugins.
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
+=======
+Refreshing native plugins compatible for Editor in 19.75 ms, found 4 plugins.
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.2.6f1 (10bfa6201ced)
@@ -91,6 +103,7 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.2.6f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56860
@@ -110,21 +123,28 @@ Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,susp
 =======
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56440
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56552
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.006879 seconds.
-- Loaded All Assemblies, in  0.253 seconds
+Registered in 0.005934 seconds.
+- Loaded All Assemblies, in  0.267 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.215 seconds
+- Finished resetting the current domain, in  0.219 seconds
 Domain Reload Profiling:
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 	ReloadAssembly (145ms)
 		BeginReloadAssembly (58ms)
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 =======
 	ReloadAssembly (149ms)
+=======
+	ReloadAssembly (154ms)
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 		BeginReloadAssembly (57ms)
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 			ExecutionOrderSort (0ms)
@@ -133,6 +153,7 @@ Domain Reload Profiling:
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
 		LoadAllAssembliesAndSetupDomain (0ms)
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 			LoadAssemblies (53ms)
@@ -154,10 +175,18 @@ Domain Reload Profiling:
 				TypeCache.Initialize (97ms)
 					TypeCache.ScanAssembly (96ms)
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
+=======
+			LoadAssemblies (54ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (107ms)
+				TypeCache.Initialize (106ms)
+					TypeCache.ScanAssembly (105ms)
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 				ResolveRequiredComponents (0ms)
 		FinalizeReload (0ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (0ms)
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 			SetupLoadedEditorAssemblies (161ms)
@@ -167,8 +196,11 @@ Domain Reload Profiling:
 =======
 			SetupLoadedEditorAssemblies (170ms)
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
+=======
+			SetupLoadedEditorAssemblies (171ms)
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (8ms)
+				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (6ms)
 				RefreshPlugins (0ms)
 				BeforeProcessingInitializeOnLoad (1ms)
@@ -194,6 +226,7 @@ Symbol file LoadedFromMemory doesn't match image C:\Users\asus\Desktop\My projec
 Symbol file LoadedFromMemory doesn't match image C:\Users\asus\Desktop\My project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 - Loaded All Assemblies, in  0.755 seconds
 Refreshing native plugins compatible for Editor in 12.26 ms, found 4 plugins.
 Native extension for WindowsStandalone target not found
@@ -209,10 +242,15 @@ Refreshing native plugins compatible for Editor in 11.82 ms, found 4 plugins.
 - Loaded All Assemblies, in  0.818 seconds
 Refreshing native plugins compatible for Editor in 12.14 ms, found 4 plugins.
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
+=======
+- Loaded All Assemblies, in  0.804 seconds
+Refreshing native plugins compatible for Editor in 13.92 ms, found 4 plugins.
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.545 seconds
+- Finished resetting the current domain, in  0.500 seconds
 Domain Reload Profiling:
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 	ReloadAssembly (205ms)
 		BeginReloadAssembly (97ms)
@@ -220,6 +258,10 @@ Domain Reload Profiling:
 =======
 	ReloadAssembly (172ms)
 		BeginReloadAssembly (96ms)
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
+=======
+	ReloadAssembly (164ms)
+		BeginReloadAssembly (89ms)
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
@@ -245,27 +287,37 @@ Domain Reload Profiling:
 			LoadAssemblies (239ms)
 =======
 			CreateAndSetChildDomain (19ms)
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 		LoadAllAssembliesAndSetupDomain (644ms)
 			LoadAssemblies (243ms)
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
+=======
+		LoadAllAssembliesAndSetupDomain (637ms)
+			LoadAssemblies (231ms)
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 			RebuildTransferFunctionScriptingTraits (0ms)
 			SetupTypeCache (439ms)
-				TypeCache.Initialize (226ms)
-					TypeCache.ScanAssembly (222ms)
+				TypeCache.Initialize (232ms)
+					TypeCache.ScanAssembly (227ms)
 				ResolveRequiredComponents (3ms)
 		FinalizeReload (0ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (0ms)
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 			SetupLoadedEditorAssemblies (379ms)
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 =======
 			SetupLoadedEditorAssemblies (398ms)
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
+=======
+			SetupLoadedEditorAssemblies (371ms)
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (4ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (3ms)
 				RefreshPlugins (0ms)
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 				BeforeProcessingInitializeOnLoad (62ms)
@@ -294,22 +346,35 @@ Refreshing native plugins compatible for Editor in 11.81 ms, found 4 plugins.
 				BeforeProcessingInitializeOnLoad (66ms)
 				ProcessInitializeOnLoadAttributes (207ms)
 				ProcessInitializeOnLoadMethodAttributes (111ms)
+=======
+				BeforeProcessingInitializeOnLoad (65ms)
+				ProcessInitializeOnLoadAttributes (200ms)
+				ProcessInitializeOnLoadMethodAttributes (93ms)
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (14ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 Refreshing native plugins compatible for Editor in 13.35 ms, found 4 plugins.
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
+=======
+Refreshing native plugins compatible for Editor in 12.80 ms, found 4 plugins.
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4876 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 124 unused Assets / (116.3 KB). Loaded Objects now: 5254.
+Unloading 124 unused Assets / (116.2 KB). Loaded Objects now: 5254.
 Memory consumption went from 0.72 GB to 0.72 GB.
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 Total: 5.182000 ms (FindLiveObjects: 0.370700 ms CreateObjectMapping: 0.164100 ms MarkObjects: 4.480700 ms  DeleteObjects: 0.165400 ms)
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 =======
 Total: 5.662100 ms (FindLiveObjects: 0.433600 ms CreateObjectMapping: 0.174700 ms MarkObjects: 4.859400 ms  DeleteObjects: 0.193300 ms)
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
+=======
+Total: 5.345500 ms (FindLiveObjects: 0.328900 ms CreateObjectMapping: 0.145700 ms MarkObjects: 4.685700 ms  DeleteObjects: 0.184700 ms)
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -326,6 +391,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
 <<<<<<< HEAD:Logs/AssetImportWorker2-prev.log
   Time since last request: 8879.768781 seconds.
@@ -562,4 +628,20 @@ Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 7
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
 =======
+>>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
+=======
+  Time since last request: 24239.575548 seconds.
+  path: Assets/PacStudentAnimator.controller
+  artifactKey: Guid(c290ba3175d74fa4aa79cba095b2930f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PacStudentAnimator.controller using Guid(c290ba3175d74fa4aa79cba095b2930f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85afd6959948cbcce4ea390740e235bd') in 0.008041 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 43164.563835 seconds.
+  path: Assets/Visual-Sprites
+  artifactKey: Guid(d3d3ab31deff98142bc3e163c370a2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual-Sprites using Guid(d3d3ab31deff98142bc3e163c370a2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79468fcf154d7a0395a1c57e994e890c') in 0.000761 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
 >>>>>>> Feature-Visual:Logs/AssetImportWorker0.log
