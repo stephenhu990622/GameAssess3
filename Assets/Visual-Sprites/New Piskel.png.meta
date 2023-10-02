@@ -131,8 +131,8 @@ TextureImporter:
       name: normG1
       rect:
         serializedVersion: 2
-        x: 38
-        y: 104
+        x: 40
+        y: 105
         width: 13
         height: 15
       alignment: 9
