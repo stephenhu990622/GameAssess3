@@ -16831,52 +16831,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1124689515586086670, guid: e1a0fc8e4c37c8c4bb25e0bc24720d81, type: 3}
   m_PrefabInstance: {fileID: 597609082}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &601550843
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 601550844}
-  - component: {fileID: 601550845}
-  m_Layer: 0
-  m_Name: cherry
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &601550844
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 601550843}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -15.0206375, y: -5.7455735, z: 572.81134}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 14
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &601550845
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 601550843}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 28bb0ea49a7a05f4baad5f1f2dbe384c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  cherryPrefab: {fileID: 5596114434098978019, guid: f38774f9f5b233846bafaef9b47d4158, type: 3}
-  spawnInterval: 10
 --- !u!1 &602443359 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8019135643439480401, guid: e1a0fc8e4c37c8c4bb25e0bc24720d81, type: 3}
