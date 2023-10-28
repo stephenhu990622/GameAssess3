@@ -61,6 +61,7 @@
     <Compile Include="Assets\Scripts\LoadLevel.cs" />
     <Compile Include="Assets\Scripts\PacStudentMovement.cs" />
     <Compile Include="Assets\Scripts\AudioManager.cs" />
+    <Compile Include="Assets\Scripts\PacStudentController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
